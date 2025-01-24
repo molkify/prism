@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Monocraft;
+    src: url(fonts/Monocraft.ttf);
+  }
+
+html {
+    background-color: #1e1e2e;
+    color: white;
+    text-align: center;
+    font-family: "Monocraft";
+}
+
+header img {
+    opacity: .4;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  font-size: 12px;
+}
+
+h1 {
+    font-size: 80px;
+    line-height: 1.5;
+    font-weight: 900;
+    margin-bottom: 20px;
+    margin-top: 160px;
+}
