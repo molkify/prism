@@ -1,6 +1,7 @@
-importScripts('/static/u/bundle.js');
-importScripts('/static/u/config.js');
-importScripts('/static/u/sw.js');
+importScripts('/static/uv/uv.bundle.js');
+importScripts('/static/uv/uv.config.js');
+importScripts('/static/uv/uv.sw.js');
+importScripts('https://arc.io/arc-sw-core.js');
 
 const sw = new UVServiceWorker();
 
