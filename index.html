@@ -13,6 +13,7 @@
     <script src="/static/search.js" defer=""></script>
     <script src="/static/index.js" defer=""></script>
     <script src="/static/error.js" defer=""></script>
+    <script src="/src/particles.js"></script>
 </head>
 <body>
     <div id="loading-screen">
@@ -24,8 +25,9 @@
             <input id="uv-search-engine" value="https://www.duckduckgo.com/?q=%s" type="hidden"> 
             <input id="uv-address" type="text" placeholder="Search DuckDuckGo or type a URL...">
         </form>
-        <div id="particles-js"></div>
-        <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-        <script src="/src/particles.js"></script>
+    <!-- particles.js container --> 
+    <div id="particles-js"></div>
+    <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> 
+    <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </body>
 </html>
