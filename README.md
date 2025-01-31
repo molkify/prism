@@ -1,5 +1,2 @@
 # prism
-a cutesy tool to bypass web restrictions everywhere! :3
-
-# license
-prism is licensed under the agpl 3.0 license and has been since 1/27/25
+this was apart of the now "lost media" called femboy-devs, a group that bypasses restrictions everywhere
